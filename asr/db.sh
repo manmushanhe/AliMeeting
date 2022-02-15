@@ -1,8 +1,8 @@
 # Set the path of your corpus
 # "downloads" means the corpus can be downloaded by the recipe automatically
 
-AISHELL4="/mnt/fyu/data/aishell4"
-AliMeeting="/home/yf352572/workspace/espnet/egs2/aishell4/asr_new/dump2/raw/org"
+AISHELL4="/Work21/2021/luhaoyu/A-data/aishell4/"
+AliMeeting="/Work21/2021/luhaoyu/A-data/Alimeeting/"
 AN4=downloads
 DIRHA_ENGLISH_PHDEV=
 DIRHA_WSJ=
